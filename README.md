@@ -1,6 +1,6 @@
 # PDF-Reader
 
-# audiobook by Mr.BHanuka
+# PDF Reader by Mr.Bhanuka
 read all the printable text from a PDF file 
 
 
