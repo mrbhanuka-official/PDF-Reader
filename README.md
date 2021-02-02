@@ -1,4 +1,3 @@
-# PDF-Reader
 
 # PDF Reader by Mr.Bhanuka
 read all the printable text from a PDF file 
@@ -14,3 +13,4 @@ To Read text
 ` pip install pyttsx3
 `
 
+Make Sure You are Free To Clone,Share,Remix This Work ☺
