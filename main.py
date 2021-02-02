@@ -1,7 +1,7 @@
 import pyttsx3
 import PyPDF2
-book = open('java.pdf', 'rb')
-pdfReader = PyPDF2.PdfFileReader(book)
+bok = open('java.pdf', 'rb')
+pdfReader = PyPDF2.PdfFileReader(bok)
 pages = pdfReader.numPages
 fullpage = str(pages)
 
